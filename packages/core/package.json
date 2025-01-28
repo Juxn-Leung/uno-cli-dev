@@ -1,0 +1,22 @@
+{
+  "name": "@uno-cli-dev/core",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "junxuan.liang@fftai.com <koudai0000>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
